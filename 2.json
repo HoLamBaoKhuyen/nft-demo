@@ -1,6 +1,16 @@
 {
-  "name": "Card 2",
-  "description": "Demo card number 2",
-  "url": "https://github.com/HoLamBaoKhuyen/nft-demo/blob/main/2.jpg",
-  "attributes": []
+    "name": "Card 2",
+    "description": "Genesis card",
+    "image_url": "https://github.com/HoLamBaoKhuyen/nft-demo/blob/main/2.jpg",
+    "attributes": [
+        {
+          "trait_type": "class", 
+          "value": "dragon"
+        }, 
+        {
+            "display_type": "date", 
+            "trait_type": "birthday", 
+            "value": 1624955102
+        }        
+      ]
 }
